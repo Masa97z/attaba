@@ -1,0 +1,6 @@
+@attaba_HostAddress = http://localhost:5049
+
+GET {{attaba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

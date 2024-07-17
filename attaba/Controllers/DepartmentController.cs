@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using attaba.Models;
 
 [Route("api/[controller]")]
 [ApiController]
